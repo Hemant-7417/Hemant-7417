@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Hemant Aggarwal
 
-<!--
-**Hemant-7417/Hemant-7417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer & AI Enthusiast
+🚀 Building modern web applications using JavaScript & Firebase
+📚 Currently learning Python, AI Development, and Full Stack Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* Firebase
+* Git & GitHub
+* Python
+
+---
+
+## 🌟 Featured Projects
+
+### 💰 Expense Tracker
+
+A smart expense tracking web app with analytics dashboard.
+
+🔗 Live Demo: pocket-analyser.vercel.app
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemant-7417\&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Hemant-7417
+* LinkedIn: https://linkedin.com/in/Hemant7417
